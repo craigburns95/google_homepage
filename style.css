@@ -22,19 +22,23 @@ border-style: hidden;
     margin-top: 25px;
     margin-right: 25px;
     margin-bottom: 25px;
+    background-color: white;
 }
 .button2 {
     margin-top: 25px;
     margin-right: 25px;
     margin-bottom: 25px;
     border: none;
+    background-color: white;
 }
-.button3 {
+.button5 {
     float: right;
     margin-top: 25px;
     margin-right: 25px;
     margin-bottom: 25px;
+    margin-left: 25px;
     border: none;
+    background-color: white;
 }
 .button4 {
     float:right;
@@ -42,10 +46,11 @@ border-style: hidden;
     margin-right: 25px;
     margin-bottom: 25px;
     margin-left: 50px;
-    border: none;
+    border:none;
+    background-color: white;
 }
-.button5 {
-    font-size: larger;
+.button3 {
+    font-size: 20px;
     color: white;
     float: right;
     margin-top: 25px;
@@ -56,6 +61,15 @@ border-style: hidden;
     border-radius: 50%;
     background-color: #FF6322;
 }                  
+.search {
+    border: none;
+    background-color: whitesmoke;
+    margin-right: 25px;
+}
+.lucky {
+    border:none;
+    border-color:whitesmoke;
+}
 
 
 
