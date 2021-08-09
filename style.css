@@ -1,0 +1,61 @@
+.left {
+text-align: left;
+border-style: hidden;
+}
+.logo {
+    text-align: center;
+    margin-top: 200px;
+}
+.bar {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 50px;
+    position: flex;
+}
+.bottom-button {
+    text-align: center;
+    margin-top: 50px;
+}
+.button1 {
+    border:none;
+    outline: none;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+.button2 {
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    border: none;
+}
+.button3 {
+    float: right;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    border: none;
+}
+.button4 {
+    float:right;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    border: none;
+}
+.button5 {
+    font-size: larger;
+    color: white;
+    float: right;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 50%;
+    background-color: #FF6322;
+}                  
+
+
+
